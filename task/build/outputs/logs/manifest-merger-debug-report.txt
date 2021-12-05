@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Zhandos\.gradle\caches\transforms-3\88a6812df0070125295c1a08fe46bcb3\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Zhandos\.gradle\caches\transforms-3\9a5bf5a6a400c7c817fb4c500e2f7e98\transformed\material-1.3.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Zhandos\.gradle\caches\transforms-3\0dfbca5819777a36730d6633daf4aebb\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Zhandos\.gradle\caches\transforms-3\5c1e8744f767aba6b98417a36f45d916\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\102e084fb0b5266e9cdc46ca398cd53d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\2943266ad7ec0dbc8a1d006edfefc94d\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Zhandos\.gradle\caches\transforms-3\95d7227062561b8106efd2dc535848a7\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\e4a2b082ca23c5f76d2fe1d6b2211e85\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\3479a2e7acd958c3fe4a0c1678b65eed\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\43048601fa57533f8792eaacf8f0ce91\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Zhandos\.gradle\caches\transforms-3\acd31b75b36da57f3296401270084739\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\8c63995786cc21147542e92a8ecd72d1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\15043dc41f47a64df89e0dbeb3b6cc1d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\33453a10ecec644a7f1bbc42a4df9932\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\ccd852ffee78522880dd58324175a27b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\16c3ae0f8d9b03b22a8a61daf07673ae\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\a053b7a42c333163872bd131c2cd03de\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\2d0ad6510f89d24d794a1865e144886b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\402c9e0d95d6cd5777d10b90421f1c4b\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Zhandos\.gradle\caches\transforms-3\2f54f773992befd7c7e195aec83e4ec6\transformed\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\98c175c38a3f2c39ec4336557a7f8acf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\419b1c09f7c81e533b5ea22394868bd0\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\9e610edab8c54f86141202232d57198a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\09ac1f7da2ce186bac7c5aa2a7dc7d48\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\13d6fd38d588a51406a699581e0654e6\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\06bbf5e1ff8bcc35eed8e6ea04913b28\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\cfc834d2d1134797e9b7b0bae017717a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\0d90dbaaddb3aa09d7f05c4b7698649d\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\7534b3f0c7ada00f799c2aa6a78e1406\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\e56519d75694e759f8784ed28b1317e9\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\3c1d5130f05f5b7b08330bcf701e930d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\f99b973ba2e946b16ef6f73a69246dcd\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\78b18cf09d7dc395f7eecada41d7aca5\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\68076d901dad938c2dfbd6042ae73428\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:5:3-19:17
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Zhandos\.gradle\caches\transforms-3\9a5bf5a6a400c7c817fb4c500e2f7e98\transformed\material-1.3.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Zhandos\.gradle\caches\transforms-3\9a5bf5a6a400c7c817fb4c500e2f7e98\transformed\material-1.3.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Zhandos\.gradle\caches\transforms-3\0dfbca5819777a36730d6633daf4aebb\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Zhandos\.gradle\caches\transforms-3\0dfbca5819777a36730d6633daf4aebb\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\Zhandos\.gradle\caches\transforms-3\2f54f773992befd7c7e195aec83e4ec6\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Zhandos\.gradle\caches\transforms-3\2f54f773992befd7c7e195aec83e4ec6\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\9e610edab8c54f86141202232d57198a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\9e610edab8c54f86141202232d57198a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Zhandos\.gradle\caches\transforms-3\2f54f773992befd7c7e195aec83e4ec6\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:11:7-38
+activity#org.hyperskill.calculator.tip.MainActivity
+ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:12:5-18:16
+	android:name
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:12:15-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:13:7-17:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml:16:19-66
+uses-sdk
+INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Zhandos\.gradle\caches\transforms-3\88a6812df0070125295c1a08fe46bcb3\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Zhandos\.gradle\caches\transforms-3\88a6812df0070125295c1a08fe46bcb3\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Zhandos\.gradle\caches\transforms-3\9a5bf5a6a400c7c817fb4c500e2f7e98\transformed\material-1.3.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Zhandos\.gradle\caches\transforms-3\9a5bf5a6a400c7c817fb4c500e2f7e98\transformed\material-1.3.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Zhandos\.gradle\caches\transforms-3\0dfbca5819777a36730d6633daf4aebb\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Zhandos\.gradle\caches\transforms-3\0dfbca5819777a36730d6633daf4aebb\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Zhandos\.gradle\caches\transforms-3\5c1e8744f767aba6b98417a36f45d916\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Zhandos\.gradle\caches\transforms-3\5c1e8744f767aba6b98417a36f45d916\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\102e084fb0b5266e9cdc46ca398cd53d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\102e084fb0b5266e9cdc46ca398cd53d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\2943266ad7ec0dbc8a1d006edfefc94d\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\2943266ad7ec0dbc8a1d006edfefc94d\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Zhandos\.gradle\caches\transforms-3\95d7227062561b8106efd2dc535848a7\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Zhandos\.gradle\caches\transforms-3\95d7227062561b8106efd2dc535848a7\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\e4a2b082ca23c5f76d2fe1d6b2211e85\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\e4a2b082ca23c5f76d2fe1d6b2211e85\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\3479a2e7acd958c3fe4a0c1678b65eed\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\3479a2e7acd958c3fe4a0c1678b65eed\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\43048601fa57533f8792eaacf8f0ce91\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\43048601fa57533f8792eaacf8f0ce91\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Zhandos\.gradle\caches\transforms-3\acd31b75b36da57f3296401270084739\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Zhandos\.gradle\caches\transforms-3\acd31b75b36da57f3296401270084739\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\8c63995786cc21147542e92a8ecd72d1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\8c63995786cc21147542e92a8ecd72d1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\15043dc41f47a64df89e0dbeb3b6cc1d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\15043dc41f47a64df89e0dbeb3b6cc1d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\33453a10ecec644a7f1bbc42a4df9932\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\33453a10ecec644a7f1bbc42a4df9932\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\ccd852ffee78522880dd58324175a27b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\ccd852ffee78522880dd58324175a27b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\16c3ae0f8d9b03b22a8a61daf07673ae\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\16c3ae0f8d9b03b22a8a61daf07673ae\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\a053b7a42c333163872bd131c2cd03de\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\a053b7a42c333163872bd131c2cd03de\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\2d0ad6510f89d24d794a1865e144886b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\2d0ad6510f89d24d794a1865e144886b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\402c9e0d95d6cd5777d10b90421f1c4b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\402c9e0d95d6cd5777d10b90421f1c4b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\Zhandos\.gradle\caches\transforms-3\2f54f773992befd7c7e195aec83e4ec6\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Zhandos\.gradle\caches\transforms-3\2f54f773992befd7c7e195aec83e4ec6\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\98c175c38a3f2c39ec4336557a7f8acf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\98c175c38a3f2c39ec4336557a7f8acf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\419b1c09f7c81e533b5ea22394868bd0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\419b1c09f7c81e533b5ea22394868bd0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\9e610edab8c54f86141202232d57198a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\9e610edab8c54f86141202232d57198a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\09ac1f7da2ce186bac7c5aa2a7dc7d48\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\09ac1f7da2ce186bac7c5aa2a7dc7d48\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\13d6fd38d588a51406a699581e0654e6\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Zhandos\.gradle\caches\transforms-3\13d6fd38d588a51406a699581e0654e6\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\06bbf5e1ff8bcc35eed8e6ea04913b28\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\06bbf5e1ff8bcc35eed8e6ea04913b28\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\cfc834d2d1134797e9b7b0bae017717a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\cfc834d2d1134797e9b7b0bae017717a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\0d90dbaaddb3aa09d7f05c4b7698649d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\0d90dbaaddb3aa09d7f05c4b7698649d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\7534b3f0c7ada00f799c2aa6a78e1406\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\7534b3f0c7ada00f799c2aa6a78e1406\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\e56519d75694e759f8784ed28b1317e9\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\e56519d75694e759f8784ed28b1317e9\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\3c1d5130f05f5b7b08330bcf701e930d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\3c1d5130f05f5b7b08330bcf701e930d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\f99b973ba2e946b16ef6f73a69246dcd\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\f99b973ba2e946b16ef6f73a69246dcd\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\78b18cf09d7dc395f7eecada41d7aca5\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\78b18cf09d7dc395f7eecada41d7aca5\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\68076d901dad938c2dfbd6042ae73428\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Zhandos\.gradle\caches\transforms-3\68076d901dad938c2dfbd6042ae73428\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zhandos\AndroidStudioProjects\Tip Calculator\Tip Calculator\task\src\main\AndroidManifest.xml

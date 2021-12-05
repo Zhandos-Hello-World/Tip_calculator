@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="40sp"
+        android:textSize="20sp"
+        android:id="@+id/edit_text"
+        android:inputType="numberDecimal"
+    />
+
+    <com.google.android.material.slider.Slider
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:id="@+id/slider"
+        android:valueFrom="0"
+        android:valueTo="100"
+        android:stepSize="1"
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:id="@+id/text_view"
+        />
+
+</LinearLayout>
